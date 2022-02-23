@@ -1,0 +1,27 @@
+body {
+  background: url(https://static.dw.com/image/18463014_303.jpg);
+  background-size: cover;
+  color: palegoldenrod;
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: lightblue;
+}
+
+ul#nav {
+  list-style: none;
+}
+
+#nav li {
+  display: inline;
+}
+
+a {
+  color: white;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
